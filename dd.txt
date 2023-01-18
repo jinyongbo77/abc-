@@ -1,11 +1,11 @@
 {"name": "猴哥电影",
-"url": "http://www.css-s.net",
+"url": "https://www.7hsc.net",
 "直接播放": "1",
-"分类":"动作片$5#爱情片$6",
+"分类":"动作片$5#喜剧片$6",
 "数组":"<div class=\"myui-vodlist__box\">&&</div>",
 "图片": "data-original=\"&&\"",
 "标题": "title=\"&&\"",
-"链接": "href=\"/s/&&.html\"",
+"链接": "href=\"/gq/&&.html\"",
 "链接前缀": "/net/",
 "链接后缀": "-0-0.html",
 "搜索数组": "<div class=\"col-sm-4\">&&</div>",
@@ -14,15 +14,15 @@
 "搜索链接": "href=\"&&\"",
 "搜索模式": "0",
 "搜索url": "https://www.madoupj.com/index.php/ajax/suggest?mid=1&wd={wd}",
-"搜索后缀": "/index.php/&m=vodplay/",
+"搜索后缀": "/video/?",
 "搜索链接后缀":"-1-1.html",
 "状态": "class=\"yac\">&&</p>",
 "导演": "导演：</span>&&</p>",
 "主演": "主演：</span>&&</p>",
 "简介": "class=\"tab-content myui-panel_bd\">&&</p>",
-"分类url":"http://www.css-s.net/css/{cateId}-{catePg}.html",
+"分类url":"https://www.7hsc.net/search.php?page={catePg}&searchtype=5&tid={cateId}",
 "免嗅":"0",
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma3#,0,0",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "筛选":
 {
 "5":[
@@ -42,7 +42,7 @@
 "name":"",
 "value":[
 {"n":"全部","v":""},
-{"n":"爱情片","v":"6"}
+{"n":"喜剧片","v":"6"}
 ]
 }
 ]
