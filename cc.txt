@@ -1,7 +1,7 @@
 {"name": "麻豆映画",
 "url": "https://www.madoupj.com",
 "直接播放": "1",
-"分类":"麻豆原创$mdapp1#原创伙伴$mdapp2#节目企划$mdapp3#免费视频区$mdapp72",
+"分类":"麻豆原创$mdapp1#原创伙伴$mdapp2#节目企划$mdapp3#免费视频区$mdapp72#导演系列$mdapp5",
 "数组":"<div class=\"col-sm-4\">&&</div>",
 "图片": "img src=\"&&\"",
 "标题": "title=\"&&\"",
